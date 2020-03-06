@@ -1,7 +1,5 @@
 # used to remove files from deployment using `git archive`
 # git files
-.gitignore export-ignore
 .gitattributes export-ignore
-
-#removed .net folders
-neverend-ci-cd/Neverend/Neverend/Views/Home/**  export-ignore
+.gitignore export-ignore
+/Hutsul/neverend-ci-cd/Neverend/Neverend/Views/Home/**  export-ignore
