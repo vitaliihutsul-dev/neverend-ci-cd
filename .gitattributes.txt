@@ -1,4 +1,4 @@
 
 .gitattributes export-ignore
 .gitignore export-ignore
-/neverend-ci-cd/Neverend/Neverend/Views/Home/** export-ignore
+neverend-ci-cd/Neverend/Neverend/Views/Home/** export-ignore
