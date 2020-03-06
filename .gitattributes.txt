@@ -1,0 +1,1 @@
+/E:/Hutsul/neverend-ci-cd/Neverend/Neverend/Views/Home/About.cshtml  export-ignore
